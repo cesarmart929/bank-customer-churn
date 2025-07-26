@@ -7,6 +7,7 @@ My name is Cesar Martinez, and I created this repository to showcase my first da
 4. What types of segments exist within the bank's customers? (Customer Segmentation)
 
 Churners vs. Non-Churners--
+
   When analyzing the characteristics of churners vs non-churners, several patterns emerge. Firstly, the average age of churners was 8 years greater than the average age of non-churners. Second, on average, churners balances €20,000 more than non-churners. Third, 55% of non-churners were active members of the bank while only 35% of churners were the same. Fourth, 1 in 4 females churned while only 16% of males churned. Fifth and finally, while only 16% of French and Spanish members churned, a whopping 32% of German members churned.
   
   Based on these patterns, there is much investigation to be done into the underlyting causes for churning. Why is it that those who churn are likelier to be older than those who do not? Are members with larger account balances churning due to the opportunity cost of potentially earning more in interest at other banks? Why are females churning so much, and what is happening in Germany that is causing double the amount of churning when compared to elsewhere?
