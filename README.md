@@ -1,10 +1,11 @@
 # super-doodle
-My name is Cesar Martinez, and I created this repository to showcase my first data analyst portfolio project. I downloaded a free public dataset from Maven Analytics, a data analytics learning provider, and completed the recommended analysis. The dataset, Bank Customer Churn, provides the age, gender, region, and several other fields for each of a bank's 10,000 customers. Though not explicitly stated, it is assumed that the bank in question is fictitious. I will answer four questions in turn--each provided by Maven.
 
-1. What attributes are more common among churners than non-churners? Can churn be predicted using the variables in the data? (Churners vs. Non-Churners)
-2. What do the overall demographics of the bank's customers look like? (Demographics)
-3. Is there a difference between German, French, and Spanish customers in terms of account behavior? (Behavior by Geography)
-4. What types of segments exist within the bank's customers? (Customer Segmentation)
+  My name is Cesar Martinez, and I created this repository to showcase my first data analyst portfolio project. I downloaded a free public dataset from Maven Analytics, a data analytics learning provider, and completed the recommended analysis. The dataset, Bank Customer Churn, provides the age, gender, region, and several other fields for each of a bank's 10,000 customers. Though not explicitly stated, it is assumed that the bank in question is fictitious. I will answer four questions in turn--each provided by Maven.
+
+  1. What attributes are more common among churners than non-churners? Can churn be predicted using the variables in the data? (Churners vs. Non-Churners)
+  2. What do the overall demographics of the bank's customers look like? (Demographics)
+  3. Is there a difference between German, French, and Spanish customers in terms of account behavior? (Behavior by Geography)
+  4. What types of segments exist within the bank's customers? (Customer Segmentation)
 
 Churners vs. Non-Churners--
 
@@ -18,8 +19,10 @@ Demographics--
 
 Behavior by Geography--
 
-Customers from Germany have average balances of nearly €120,000 while their French and Spanish counterparts only have average account balances of around €60,000. This pattern lends weight to our earlier hypothesis that churning could be driven by the opportunity cost of earning more interest at other banks on larger account balances. Germans are churning at twice the rate of their counterparts, and it is likely because they have nearly double the average account balance, representing a huge opportunity cost if other banks are offering higher interest rates. 
+  Customers from Germany have average balances of nearly €120,000 while their French and Spanish counterparts only have average account balances of around €60,000. This pattern lends weight to our earlier hypothesis that churning could be driven by the opportunity cost of earning more interest at other banks on larger account balances. Germans are churning at twice the rate of their counterparts, and it is likely because they have nearly double the average account balance, representing a huge opportunity cost if other banks are offering higher interest rates. 
 
 Customer Segmentation--
+
+Based on earlier findings, we learned that Germans, on average, have significantly larger account balances than their French and Spanish counterparts. To further investigate this pattern, it would be useful to know whether this relationship holds even in the bank's younger customers. In fact, from the bank's under-30 customers, Germans are far more likely to have account balances of €90,000 or greater. 86% of under-30 Germans have account balances of €90,000 or greater while only 40% of their French and Spanish counterparts have the same respectively.
 
 https://mavenanalytics.io/data-playground?page=2&pageSize=5 (5th dataset from the top entitled "Bank Customer Churn")
