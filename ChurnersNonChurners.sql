@@ -2,7 +2,7 @@
 
 SELECT
   AVG(CASE WHEN Exited = 1 THEN Age ELSE NULL END) AS avg_age_churned,
-  AVG(CASE WHEN Exited = 0 THEN Age ELSE NULL END) as avg_age_notchurned
+  AVG(CASE WHEN Exited = 0 THEN Age ELSE NULL END) AS avg_age_notchurned
 FROM
   `coherent-window-466113-k2.bank_churn.customers`;
 
