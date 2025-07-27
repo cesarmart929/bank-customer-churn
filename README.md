@@ -13,6 +13,7 @@ Churners vs. Non-Churners--
   Based on these patterns, there is much investigation to be done into the underlyting causes for churning. Why is it that those who churn are likelier to be older than those who do not? Are members with larger account balances churning due to the opportunity cost of potentially earning more in interest at other banks? Why are females churning so much, and what is happening in Germany that is causing double the amount of churning when compared to elsewhere?
 
 Demographics--
+  Half of this bank's customers are French while Spanish and German customers make up a quarter of the total each. It is likely then that this is a French bank. Nearly 55% of the bank's customers are male. This figure coupled with the fact that 1 in 4 females are churners indicates that the bank is lagging in attracting and retaning female customers. The average age of the bank's customers is nearly 39 years.
 
 Behavior by Region--
 
