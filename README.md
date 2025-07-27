@@ -10,15 +10,15 @@ Churners vs. Non-Churners--
 
   When analyzing the characteristics of churners vs non-churners, several patterns emerge. Firstly, the average age of churners was 8 years greater than the average age of non-churners. Second, on average, churner balances were €20,000 more than non-churners. Third, 55% of non-churners were active members of the bank while only 35% of churners were the same. Fourth, 1 in 4 females churned while only 16% of males churned. Fifth and finally, while only 16% of French and Spanish customers churned, a whopping 32% of German customers churned.
   
-  Based on these patterns, there is much investigation to be done into the underlyting causes for churning. Why is it that those who churn are likelier to be older than those who do not? Are customers with larger account balances churning due to the opportunity cost of potentially earning more in interest at other banks? Why are females churning so much, and what is happening in Germany that is causing double the amount of churning when compared to elsewhere?
+  Based on these patterns, there is much investigation to be done into the underlying causes for churning. Why is it that those who churn are likelier to be older than those who do not? Are customers with larger account balances churning due to the opportunity cost of potentially earning more in interest at other banks? Why are females churning so much, and what is happening in Germany that is causing double the amount of churning when compared to elsewhere?
 
 Demographics--
 
-  Half of this bank's customers are French while Spanish and German customers make up a quarter of the total each. It is likely then that this is a French bank. Nearly 55% of the bank's customers are male. This figure coupled with the fact that 1 in 4 females are churners indicates that the bank is lagging in attracting and retaning female customers. The average age of the bank's customers is nearly 39 years.
+  Half of this bank's customers are French while Spanish and German customers make up a quarter of the total each. It is likely, then, that this is a French bank. Nearly 55% of the bank's customers are male. This figure coupled with the fact that 1 in 4 females are churners indicates that the bank is lagging in attracting and retaning female customers. The average age of the bank's customers is nearly 39 years.
 
 Behavior by Geography--
 
-Customers from Germany have average balances of nearly €120,000 while their French and Spanish counterparts only have average balances of around €60,000. This pattern lends weight to our earlier hypothesis that churning could be driven by the opportunity cost of earning more interest at other banks on larger balances. Germans are churning at twice the rate of their counterparts, and it is likely because they have nearly double the average balance, representing a huge opportunity cost if other banks are offering higher interest rates. 
+Customers from Germany have average balances of nearly €120,000 while their French and Spanish counterparts only have average account balances of around €60,000. This pattern lends weight to our earlier hypothesis that churning could be driven by the opportunity cost of earning more interest at other banks on larger account balances. Germans are churning at twice the rate of their counterparts, and it is likely because they have nearly double the average account balance, representing a huge opportunity cost if other banks are offering higher interest rates. 
 
 Customer Segmentation--
 
