@@ -1,6 +1,6 @@
 # Bank Customer Churn
-
- ## My name is Cesar Martinez, and I created this repository to showcase my first data analyst portfolio project. I downloaded a free public dataset from Maven Analytics, a data analytics learning provider, and completed the recommended analysis. The dataset, Bank Customer Churn, provides the age, gender, region, and several other fields for each of a bank's 10,000 customers. Though not explicitly stated, it is assumed that the bank in question is fictitious. I will answer four questions in turn--each provided by Maven.
+ 
+  My name is Cesar Martinez, and I created this repository to showcase my first data analyst portfolio project. I downloaded a free public dataset from Maven Analytics, a data analytics learning provider, and completed the recommended analysis. The dataset, Bank Customer Churn, provides the age, gender, region, and several other fields for each of a bank's 10,000 customers. Though not explicitly stated, it is assumed that the bank in question is fictitious. I will answer four questions in turn--each provided by Maven.
 
   1. What attributes are more common among churners than non-churners? Can churn be predicted using the variables in the data? (Churners vs. Non-Churners)
   2. What do the overall demographics of the bank's customers look like? (Demographics)
