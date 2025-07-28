@@ -35,6 +35,8 @@ https://public.tableau.com/app/profile/cesar.martinez4942/viz/BankCustomerChurn_
   Based on all of these findings, there are two big patterns that emerge. Individuals with larger account balances tend to churn more than those with smaller account balances, and females churn more than males. As previously stated, it is likely that individuals with larger account balances are moving their funds to other banks with higher interest rate offerings. As for the disparity in churning behavior between males and females, further investigation is warranted to determine underlying causes.
 
 
-https://public.tableau.com/app/profile/cesar.martinez4942/viz/BankCustomerChurn_17537193049110/BankCustomerChurnDashboard (Tableau Dashboard)
+**Tableau Dashboard**
+https://public.tableau.com/app/profile/cesar.martinez4942/viz/BankCustomerChurn_17537193049110/BankCustomerChurnDashboard
 
-https://mavenanalytics.io/data-playground?page=2&pageSize=5 (Dataset - 5th from the top, entitled "Bank Customer Churn")
+**Dataset**
+https://mavenanalytics.io/data-playground?page=2&pageSize=5 (5th from the top, entitled "Bank Customer Churn")
