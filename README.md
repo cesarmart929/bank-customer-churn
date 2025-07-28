@@ -9,7 +9,7 @@
 
 Churners vs. Non-Churners--
 
-  When analyzing the characteristics of churners vs non-churners, several patterns emerge. Firstly, the average age of churners was 8 years greater than the average age of non-churners. Second, on average, churner account balances were €20,000 more than non-churners. Third, 55% of non-churners were active members of the bank while only 35% of churners were the same. Fourth, 1 in 4 females churned while only 16% of males churned. Fifth and finally, while only 16% of French and Spanish customers churned, a whopping 32% of German customers churned.
+  When analyzing the characteristics of churners vs non-churners, several patterns emerge. Firstly, the average age of churners was about 8 years greater than the average age of non-churners. Second, on average, churner account balances were around €20,000 more than non-churners. Third, 55% of non-churners were active members of the bank while only 35% of churners were the same. Fourth, 1 in 4 females churned while only 16% of males churned. Fifth and finally, while only 16% of French and Spanish customers churned, a whopping 32% of German customers churned.
   
   Based on these patterns, there is much investigation to be done into the underlying causes for churning. Why is it that those who churn are likelier to be older than those who do not? Are customers with larger account balances churning due to the opportunity cost of potentially earning more in interest at other banks? Why are females churning so much, and what is happening in Germany that is causing double the amount of churning when compared to elsewhere?
 
@@ -23,6 +23,8 @@ Behavior by Geography--
 
 Customer Segmentation--
 
-Based on earlier findings, we learned that Germans, on average, have significantly larger account balances than their French and Spanish counterparts. To further investigate this pattern, it would be useful to know whether this relationship holds even in the bank's younger customers. In fact, from the bank's under-30 customers, Germans are far more likely to have account balances of €90,000 or greater. 86% of under-30 Germans have account balances of €90,000 or greater while only 40% of their French and Spanish counterparts have the same, respectively.
+  Based on earlier findings, we learned that Germans, on average, have significantly larger account balances than their French and Spanish counterparts. To further investigate this pattern, it would be useful to know whether this relationship holds even in the bank's younger customers. In fact, from the bank's under-30 customers, Germans are far more likely to have account balances of €90,000 or greater. 86% of under-30 Germans have account balances of €90,000 or greater while only 40% of their French and Spanish counterparts have the same, respectively.
+
+  Another interesting pattern emerges when looking at under-30 customers by geography. Both French and Spanish customers age 30 or under have, on average, account balances of approxiamtely €59,000, yet Spanish customers from the same cohort are churning at nearly double the rate of their French counterparts. It remains to be seen what accounts for this difference when it has already been determined that the opportunity cost of more in interest on larger account balances cannot be a determining factor.
 
 https://mavenanalytics.io/data-playground?page=2&pageSize=5 (5th dataset from the top entitled "Bank Customer Churn")
