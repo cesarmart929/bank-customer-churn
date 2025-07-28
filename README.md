@@ -27,4 +27,10 @@ Customer Segmentation--
 
   Another interesting pattern emerges when looking at under-30 customers by geography. Both French and Spanish customers age 30 or under have, on average, account balances of approxiamtely €59,000, yet Spanish customers from the same cohort are churning at nearly double the rate of their French counterparts. It remains to be seen what accounts for this difference when it has already been determined that the opportunity cost of more in interest on larger account balances cannot be a determining factor.
 
+Conclusion--
+
+  Based on all of these findings, there are two big patterns that emerge. Individuals with larger account balances tend to churn more than those with smaller account balances, and females churn more than males. As previously stated, it is likely that individuals with larger account balances are moving their funds to other banks with higher interest rate offerings. As for the disparity in churning behavior between males and females, further investigation is warranted to determine underlying causes.
+
+
+https://public.tableau.com/app/profile/cesar.martinez4942/viz/BankCustomerChurn_17537193049110/BankCustomerChurnDashboard (Tableau visualization)
 https://mavenanalytics.io/data-playground?page=2&pageSize=5 (5th dataset from the top entitled "Bank Customer Churn")
