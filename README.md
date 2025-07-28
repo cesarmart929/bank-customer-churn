@@ -7,6 +7,9 @@
   3. Is there a difference between German, French, and Spanish customers in terms of account behavior? (Behavior by Geography)
   4. What types of segments exist within the bank's customers? (Customer Segmentation)
 
+**Tableau Dashboard**
+https://public.tableau.com/app/profile/cesar.martinez4942/viz/BankCustomerChurn_17537193049110/BankCustomerChurnDashboard
+
 ## Churners vs. Non-Churners
 
   When analyzing the characteristics of churners vs non-churners, several patterns emerge. Firstly, the average age of churners was about 8 years greater than the average age of non-churners. Second, on average, churner account balances were around €20,000 more than non-churners. Third, 55% of non-churners were active members of the bank while only 35% of churners were the same. Fourth, 1 in 4 females churned while only 16% of males churned. Fifth and finally, while only 16% of French and Spanish customers churned, a whopping 32% of German customers churned.
@@ -32,6 +35,6 @@
   Based on all of these findings, there are two big patterns that emerge. Individuals with larger account balances tend to churn more than those with smaller account balances, and females churn more than males. As previously stated, it is likely that individuals with larger account balances are moving their funds to other banks with higher interest rate offerings. As for the disparity in churning behavior between males and females, further investigation is warranted to determine underlying causes.
 
 
-https://public.tableau.com/app/profile/cesar.martinez4942/viz/BankCustomerChurn_17537193049110/BankCustomerChurnDashboard (Tableau visualization)
+https://public.tableau.com/app/profile/cesar.martinez4942/viz/BankCustomerChurn_17537193049110/BankCustomerChurnDashboard (Tableau Dashboard)
 
 https://mavenanalytics.io/data-playground?page=2&pageSize=5 (Dataset - 5th from the top, entitled "Bank Customer Churn")
