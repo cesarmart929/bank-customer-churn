@@ -7,7 +7,7 @@
   3. Is there a difference between German, French, and Spanish customers in terms of account behavior? (Behavior by Geography)
   4. What types of segments exist within the bank's customers? (Customer Segmentation)
 
-**Tableau Dashboard**
+**📊 Tableau Dashboard**
 https://public.tableau.com/app/profile/cesar.martinez4942/viz/BankCustomerChurn_17537193049110/BankCustomerChurnDashboard
 
 ## Churners vs. Non-Churners
