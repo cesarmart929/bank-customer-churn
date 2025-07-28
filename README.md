@@ -23,6 +23,6 @@ Behavior by Geography--
 
 Customer Segmentation--
 
-Based on earlier findings, we learned that Germans, on average, have significantly larger account balances than their French and Spanish counterparts. To further investigate this pattern, it would be useful to know whether this relationship holds even in the bank's younger customers. In fact, from the bank's under-30 customers, Germans are far more likely to have account balances of €90,000 or greater. 86% of under-30 Germans have account balances of €90,000 or greater while only 40% of their French and Spanish counterparts have the same respectively.
+Based on earlier findings, we learned that Germans, on average, have significantly larger account balances than their French and Spanish counterparts. To further investigate this pattern, it would be useful to know whether this relationship holds even in the bank's younger customers. In fact, from the bank's under-30 customers, Germans are far more likely to have account balances of €90,000 or greater. 86% of under-30 Germans have account balances of €90,000 or greater while only 40% of their French and Spanish counterparts have the same, respectively.
 
 https://mavenanalytics.io/data-playground?page=2&pageSize=5 (5th dataset from the top entitled "Bank Customer Churn")
